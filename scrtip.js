@@ -9,3 +9,4 @@
     }
 
     showUser.apply(age, ["Mammedov", "Ali"]);
+
